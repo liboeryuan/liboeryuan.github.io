@@ -19,7 +19,7 @@
 
 
 - ``ICMR 2025`` [Edge-Aware Network with Confidence Feature Fusion for Infrared Small Target Detection](https://dl.acm.org/doi/abs/10.1145/3731715.3733318)
-  - ｜ **Boyuan Li**, Zitong Ren, Xiuhong Li, et al.
+  ｜ **Boyuan Li**, Zitong Ren, Xiuhong Li, et al.
 - ``ICMR 2025`` [PRNet: Parallel Refinement Network with Selective Feature Enhancement for Infrared Small Target Detection](https://dl.acm.org/doi/abs/10.1145/3731715.3733491), **Boyuan Li**, Xiuhong Li, Kurban Ubul.
 - ``ICMR 2025`` [Efficient Camouflaged Object Detection Network Based on Channel Reconstruction and Hybrid Attention](https://dl.acm.org/doi/abs/10.1145/3731715.3733476), Kuan Wang, Xiuhong Li, Songlin Li, Yulong Bai,, **Boyuan Li**, et al. 
 - ``ICME 2024`` <span style="color:red">(Oral)</span> [
