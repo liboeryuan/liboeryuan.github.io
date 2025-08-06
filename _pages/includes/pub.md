@@ -1,4 +1,4 @@
-<!-- 
+
 # 📝 Publications 
 
 
@@ -35,9 +35,9 @@ Adaptive Feature Fusion Network for Infrared Small Target Detection](https://iee
 - `IEEE GRSL 2024` [A Lightweight Two-Level Nested FPN Network for Infrared Small Target Detection](https://ieeexplore.ieee.org/document/10552713), Dangxuan Wu, Xiuhong Li, **Boyuan Li**, et al.
 - ``PRCV 2024`` [Camouflaged Object Detection Based on Feature Aggregation and Global Semantic Learning](https://link.springer.com/chapter/10.1007/978-981-97-8858-3_18), Kuan Wang, Xiuhong Li, **Boyuan Li**, et al.
 - `PRCV 2023` [Emphasizing Boundary-Positioning and Leveraging Multi-scale Feature Fusion for Camouflaged Object Detection](https://link.springer.com/chapter/10.1007/978-981-99-8555-5_40), Songlin Li, Xiuhong Li, Zhe Li, **Boyuan Li**, et al. 
- -->
 
-# 📝 Publications 
+
+<!-- # 📝 Publications 
 ## 🎙 Speech Synthesis
 
 
@@ -171,4 +171,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## Others
 - `NeurIPS 2023` [Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective](https://openreview.net/forum?id=Rp4PA0ez0m), Pengfei Wei, Lingdong Kong, Xinghua Qu, **Yi Ren**, et al.
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
