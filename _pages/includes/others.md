@@ -5,7 +5,7 @@
 - Chinese Conference on Pattern Recognition and Computer Vision
 
 # 📖 Educations
-- *2024.09 - *, doctor, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.
+- *2024.09 - Now*, Doctor, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.
 - *2022.09 - 2024.06*, Master, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.
 
 
