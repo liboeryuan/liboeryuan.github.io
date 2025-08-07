@@ -1,8 +1,8 @@
 # 🧐 Reviewer
-- ACM Multimedia
-- Association for the Advancement of Artificial Intelligence
-- International Conference on Multimedia and Expo
-- Chinese Conference on Pattern Recognition and Computer Vision
+- ACM Multimedia (ACM MM)
+- Association for the Advancement of Artificial Intelligence (AAAI)
+- International Conference on Multimedia and Expo (ICME)
+- Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 
 # 📖 Educations
 - *2024.09 - Now*, Doctor, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.
