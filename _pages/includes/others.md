@@ -3,6 +3,7 @@
 - Association for the Advancement of Artificial Intelligence (AAAI)
 - International Conference on Multimedia and Expo (ICME)
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+- ACM Multimedia Asia （MMAsia）
 
 # 📖 Educations
 - *2024.09 - Now*, Doctor, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.

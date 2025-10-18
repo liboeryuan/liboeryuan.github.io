@@ -17,7 +17,8 @@
 </div>
 </div> -->
 
-
+- ``KBS 2025`` [PGNet: Position Guided Infrared Small Target Detection]()  
+  > **Boyuan Li**, Zitong Ren, Shengbin Hao, Kurban Ubul<sup>*</sup>.
 - ``ICMR 2025`` [Edge-Aware Network with Confidence Feature Fusion for Infrared Small Target Detection](https://dl.acm.org/doi/abs/10.1145/3731715.3733318)  
   > **Boyuan Li**, Zitong Ren, Xiuhong Li, Kurban Ubul<sup>*</sup>.
 - ``ICMR 2025`` [PRNet: Parallel Refinement Network with Selective Feature Enhancement for Infrared Small Target Detection](https://dl.acm.org/doi/abs/10.1145/3731715.3733491) 
