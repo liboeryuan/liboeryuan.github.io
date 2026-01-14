@@ -1,4 +1,6 @@
 # 🧐 Reviewer
+- Transactions on Image Processing (TIP)
+- Engineering Applications of Artificial Intelligence (EAAI)
 - ACM Multimedia (ACM MM)
 - Association for the Advancement of Artificial Intelligence (AAAI)
 - International Conference on Multimedia and Expo (ICME)
