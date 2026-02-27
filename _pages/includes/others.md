@@ -4,6 +4,7 @@
 - ACM Multimedia (ACM MM)
 - Association for the Advancement of Artificial Intelligence (AAAI)
 - International Conference on Multimedia and Expo (ICME)
+- ACM International Conference on Multimedia Retrieval (ICMR)
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 - ACM Multimedia Asia （MMAsia）
 
