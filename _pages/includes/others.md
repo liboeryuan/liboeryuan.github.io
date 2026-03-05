@@ -1,5 +1,7 @@
 # 🧐 Reviewer
 - IEEE Transactions on Image Processing (TIP)
+- Expert Systems with Applications (ESWA)
+- Pattern Recognition (PR)
 - Engineering Applications of Artificial Intelligence (EAAI)
 - ACM Multimedia (ACM MM)
 - Association for the Advancement of Artificial Intelligence (AAAI)
