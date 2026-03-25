@@ -32,8 +32,6 @@ Adaptive Feature Fusion Network for Infrared Small Target Detection](https://iee
   > **Boyuan Li**, Xiuhong Li<sup>*</sup>, Songlin Li, et al. 
 - ``SMC 2024`` <span style="color:red">(Oral)</span> [Mixformer: Feature Mixed Transformer for Rainfall Forecasting](), 
   > Yuanyuan Liao, **Boyuan Li<sup>*</sup>** and Xiuhong Li.
-- ``MMM 2024`` [Infrared Small Target Detection with Feature Refinement and Context Enhancement](https://link.springer.com/chapter/10.1007/978-981-96-2061-6_10), 
-  > Xiuhong Li, Xinyue Zhu, **Boyuan Li<sup>*</sup>**, et al.
 - ``ICME 2024`` [Lightweight Camouflaged Object Detection Network Based on Feature Complementation and Enhancement](https://ieeexplore.ieee.org/document/10688116), 
   > Kangwei Liu, Xiuhong Li<sup>*</sup>, **Boyuan Li**, et al.
 - ``ICME 2024`` [Dual Guidance Enhancing Camouflaged Object Detection via Focusing Boundary and Localization Representation](https://ieeexplore.ieee.org/document/10687574), 
