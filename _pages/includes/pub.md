@@ -17,6 +17,8 @@
 </div>
 </div> -->
 
+- ``ESWA 2026`` [A lightweight multi-domain collaborative representation network for infrared small target detection]()  
+  > **Boyuan Li**, Zitong Ren, Tuersunjiang Baidi, Saisai Ma, Kurban Ubul<sup>*</sup>.
 - ``KBS 2025`` [PGNet: Position Guided Infrared Small Target Detection]()  
   > **Boyuan Li**, Zitong Ren, Shengbin Hao, Kurban Ubul<sup>*</sup>.
 - ``ICMR 2025`` [Edge-Aware Network with Confidence Feature Fusion for Infrared Small Target Detection](https://dl.acm.org/doi/abs/10.1145/3731715.3733318)  
