@@ -16,6 +16,11 @@
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div> -->
+- ``TGRS 2026`` [DFR-Net: Differential-Frequency Reliability Network for Infrared Small Target Detection](https://ieeexplore.ieee.org/abstract/document/11664566)
+  > **Boyuan Li**, Tuersunjiang Baidi, Zitong Ren, Saisai Ma, Kurban Ubul<sup>*</sup>.
+
+- ``ICME 2027`` [Edge-guided Multi-Path Diffusion Network for Infrared Small Target Detection]()
+  > Shengbin Hao, **Boyuan Li**, Zewen Wang, Kurban Ubul<sup>*</sup>.
 
 - ``ESWA 2026`` [A lightweight multi-domain collaborative representation network for infrared small target detection]()  
   > **Boyuan Li**, Zitong Ren, Tuersunjiang Baidi, Saisai Ma, Kurban Ubul<sup>*</sup>.
