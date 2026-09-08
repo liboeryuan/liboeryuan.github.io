@@ -249,6 +249,17 @@
     }
   }
 
+  .visible-links .masthead__menu-item--language a {
+    &:before {
+      display: none;
+    }
+
+    &:hover {
+      border-color: $primary-color;
+      color: $primary-color;
+    }
+  }
+
   .hidden-links {
     position: absolute;
     top: 100%;

@@ -59,6 +59,24 @@
     padding-right: 2em;
     font-weight: 700;
   }
-}
 
+  &--language {
+    a {
+      margin-left: 0.75rem;
+      padding: 0.35rem 0.6rem;
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
+      line-height: 1;
+
+      &:before {
+        display: none;
+      }
+
+      &:hover {
+        border-color: $primary-color;
+        color: $primary-color;
+      }
+    }
+  }
+}
 

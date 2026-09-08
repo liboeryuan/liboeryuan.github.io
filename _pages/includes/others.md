@@ -1,3 +1,4 @@
+<span class='anchor' id='reviewer'></span>
 # 🧐 Reviewer
 - IEEE Transactions on Image Processing (TIP)
 - Expert Systems with Applications (ESWA)
@@ -10,6 +11,7 @@
 - Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 - ACM Multimedia Asia （MMAsia）
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2024.09 - Now*, Doctor, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.
 - *2022.09 - 2024.06*, Master, School of Computer Science and Technology, Xinjiang Univeristy, Urumqi.

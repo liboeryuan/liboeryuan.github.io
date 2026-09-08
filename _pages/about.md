@@ -3,6 +3,10 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+lang: en
+home_label: "Homepage"
+language_switch_label: "中文"
+language_switch_url: "/zh/"
 redirect_from: 
   - /about/
   - /about.html

@@ -1,3 +1,4 @@
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.08*: 🎉 One paper is accepted by TGRS
 - *2026.04*: 🎉 One paper is accepted by Expert Systems With Applications

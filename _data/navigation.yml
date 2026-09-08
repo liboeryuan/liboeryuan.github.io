@@ -4,17 +4,35 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors"
 
   - title: "Reviewer"
-    url: "/#-reviewer"
+    url: "/#reviewer"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
+zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "最新动态"
+    url: "/zh/#news"
+
+  - title: "论文发表"
+    url: "/zh/#publications"
+
+  - title: "荣誉奖励"
+    url: "/zh/#honors"
+
+  - title: "学术服务"
+    url: "/zh/#reviewer"
+
+  - title: "教育经历"
+    url: "/zh/#educations"

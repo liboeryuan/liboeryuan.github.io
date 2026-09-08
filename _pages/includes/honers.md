@@ -1,3 +1,4 @@
+<span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
 - *2025.11* iFlytek AI Developer Competition - Strawberry Old Leaf Recognition Challenge, The First Place
 - *2025.09* The ICDAR 2025 Competition on Automatic Classification of Literary Epochs (CoLiE), The Second Place
